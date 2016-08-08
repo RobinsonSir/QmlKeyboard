@@ -2,11 +2,11 @@
 A Way to get personal virtual keyboard. 
 You will find it is a very simple keyboard.
 
-To run app success:  Be surce chinese.db in folder bin, or you can move it to anyother path.
+To run app success:  Be sure chinese.db in the same path with exe file.
 
-![image](https://github.com/RobinsonSir/QmlKeyboard/tree/master/readme-screenshot/1.png)
+![image](https://github.com/RobinsonSir/QmlKeyboard/raw/master/readme-screenshot/1.png)
 
-![image](https://github.com/RobinsonSir/QmlKeyboard/tree/master/readme-screenshot/2.png)
+![image](https://github.com/RobinsonSir/QmlKeyboard/raw/master/readme-screenshot/2.png)
 
-![image](https://github.com/RobinsonSir/QmlKeyboard/tree/master/readme-screenshot/3.png)
+![image](https://github.com/RobinsonSir/QmlKeyboard/raw/master/readme-screenshot/3.png)
 
