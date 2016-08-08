@@ -1,6 +1,8 @@
 # QmlKeyboard
 
-Build with Qt5.3 in linux
+Qt Qml Keyboard
+
+Build with Qt5.3.
 
 A Way to get personal virtual keyboard. 
 You will find it is a very simple keyboard.
