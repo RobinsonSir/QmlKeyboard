@@ -5,7 +5,7 @@ Qt Qml Keyboard
 Build with Qt5.3.
 
 A Way to get personal virtual keyboard. 
-You will find it is a very simple keyboard.
+You will find it is a very simple keyboard. It can auto switch between en and num according to input items. 
 
 To run app success:  Be sure chinese.db in the same path with exe file.
 
